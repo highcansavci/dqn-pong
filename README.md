@@ -6,9 +6,9 @@ A Deep Q-Network agent that learns to play Atari Pong (`PongNoFrameskip-v4`) fro
 
 Trained agent playing at evaluation epsilon = 0.01, scoring **21-0**:
 
-https://github.com/USER/REPO/assets/dqn-eval-episode-0.mp4
+[![demo](https://img.shields.io/badge/Watch_demo-21--0_win-2ea44f?logo=github)](https://github.com/highcansavci/dqn-pong/blob/main/videos/dqn-eval-episode-0.mp4)
 
-> If the video does not render inline, click here: [videos/dqn-eval-episode-0.mp4](videos/dqn-eval-episode-0.mp4)
+Direct file: [videos/dqn-eval-episode-0.mp4](videos/dqn-eval-episode-0.mp4)
 
 ## Results
 
